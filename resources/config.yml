@@ -1,0 +1,13 @@
+cf:
+  title: "[ §6§l CheckInfoUI§r ]"
+  content: "Press Some Buttons, edit in plugin_data, then resource plugin.yml"
+  buttons:
+    - name: "content 1"
+      command: ""
+      icon: ""
+    - name: "content 2"
+      command: ""
+      icon: ""
+    - name: "content 3"
+      command: ""
+      icon: ""
