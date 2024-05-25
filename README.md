@@ -4,7 +4,7 @@ This plugin is specially designed for all users who have installed on the server
 ### Command
 It is more suitable to use NPC
 Or Slapper And Other
-/cf
+/msi
 
 ### Version
 1.7.0.2
