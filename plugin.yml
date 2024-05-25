@@ -1,0 +1,15 @@
+name: MServerUI
+version: 1.7.0
+description: information plugin made simple
+author: RimVG
+api:
+- 5.0.0
+main: RimVG\PluginDev\Main
+commands:
+  msi:
+    description: MServerUI plugin command GUI created by [ RimVG ]
+    permission: msi.ui
+permissions:
+  msi.ui:
+    description: Allow player use cmd
+    default: true
